@@ -48,6 +48,8 @@
     }
   },
   "include": [
+    "src/**/*",
+    "src/generated/**/*",
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
